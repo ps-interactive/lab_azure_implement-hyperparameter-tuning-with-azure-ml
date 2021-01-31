@@ -1,0 +1,17 @@
+{
+  "datasetType": "Tabular",
+  "parameters": {
+    "header": true,
+    "includePath": false,
+    "inferColumnTypes": true,
+    "path": "./flight-delays-train.csv",
+    "separator": ",",
+    "sourceType": "delimited_files"
+  },
+  "registration": {
+    "createNewVersion": true,
+    "description": "Flight Delays train Dataset",
+    "name": "flight-delays-train-dataset"
+  },
+  "schemaVersion": 1
+}

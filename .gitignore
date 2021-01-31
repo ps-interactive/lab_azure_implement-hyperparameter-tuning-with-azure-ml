@@ -1,0 +1,9 @@
+.azureml
+.terraform
+*.tf
+.amlignore
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+.idea
+*.backup
