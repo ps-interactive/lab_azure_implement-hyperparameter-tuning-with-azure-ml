@@ -7,3 +7,6 @@ terraform.tfstate
 terraform.tfstate.backup
 .idea
 *.backup
+*.tfplan
+*.zip
+*.lock.info

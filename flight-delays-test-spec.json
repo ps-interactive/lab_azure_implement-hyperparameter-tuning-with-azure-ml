@@ -4,14 +4,14 @@
     "header": true,
     "includePath": false,
     "inferColumnTypes": true,
-    "path": "https://media.githubusercontent.com/media/ps-interactive/lab_azure_implement-hyperparameter-tuning-with-azure-ml/main/flight-delays-train.csv",
+    "path": "https://media.githubusercontent.com/media/ps-interactive/lab_azure_implement-hyperparameter-tuning-with-azure-ml/main/flight-delays-test.csv",
     "separator": ",",
     "sourceType": "delimited_files"
   },
   "registration": {
     "createNewVersion": true,
-    "description": "Flight Delays Train Dataset",
-    "name": "flight-delays-train-dataset"
+    "description": "Flight Delays Test Dataset",
+    "name": "flight-delays-test-dataset"
   },
   "schemaVersion": 1
 }
