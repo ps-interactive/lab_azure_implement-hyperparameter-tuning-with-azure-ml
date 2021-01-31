@@ -10,3 +10,4 @@ terraform.tfstate.backup
 *.tfplan
 *.zip
 *.lock.info
+.DS_Store
