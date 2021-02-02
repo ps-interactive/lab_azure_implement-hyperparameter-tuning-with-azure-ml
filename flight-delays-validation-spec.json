@@ -4,7 +4,7 @@
     "header": true,
     "includePath": false,
     "inferColumnTypes": true,
-    "path": "https://media.githubusercontent.com/media/ps-interactive/lab_azure_implement-hyperparameter-tuning-with-azure-ml/main/flight-delays-validation.csv",
+    "path": "https://raw.githubusercontent.com/ps-interactive/lab_azure_implement-hyperparameter-tuning-with-azure-ml/main/flight-delays-validation-small.csv",
     "separator": ",",
     "sourceType": "delimited_files"
   },
